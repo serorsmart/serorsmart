@@ -22,3 +22,6 @@ I'm learning how to build websites and manage changes using Git and GitHub. My g
 
 ## Connect with me
 You can find my LinkedIn link in my GitHub profile sidebar.
+## GitHub contribution activity
+
+![Samuel's contribution graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=serorsmart&theme=github)
