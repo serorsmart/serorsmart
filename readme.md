@@ -5,9 +5,14 @@ I'm a Mobile Web Developer student based in Canada, building my programming skil
 
 I'm learning how to build websites and manage changes using Git and GitHub. My goal is to grow into a developer who writes clear code and collaborates effectively with a team.
 
-## Tools I use
-- Git for version control
-- GitHub for repositories and collaboration
+
+## Tech stack and design skills
+- HTML for structuring web pages
+- CSS for styling web pages
+- JavaScript for adding interactivity
+- UI design for creating clear interfaces
+- UX design for improving usability
+- Git and GitHub for version control and collaboration
 - Visual Studio Code for editing code
 
 ## Currently learning
